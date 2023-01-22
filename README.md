@@ -1,5 +1,7 @@
 # Pokemon Memory
 
+https://romaryl.github.io/Pokemon-Memory/
+
 Application monopage en HTML/CSS/Javascript/JQuery. Huit images uniques de pokémons sont sélectionnées parmis une liste de 200, les paires sont créer depuis cette liste puis sont mélangées et affichées.
 Le score s'incrémente à chaque retournement de carte et décrémente de 1 lorsqu'une paire est trouvée.
 
